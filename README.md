@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4493F8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Prashant;Django+Backend+Specialist;SQLAlchemy+%26+PostgreSQL+Expert;Full-Stack+Engineer" alt="Typing SVG" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4493F8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Prashant;Django+Backend+Specialist;SQLAlchemy+%26+PostgreSQL;Full-Stack+Engineer" alt="Typing SVG" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Expertise-Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -12,22 +12,11 @@ I am a Computer Engineering student specializing in building scalable backends. 
 
 ---
 
-### 🏆 GitHub Trophy Hall
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant7738&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" /></a>
-</p>
-
----
-
 ### 🏗️ Featured High-Impact Projects
 
-* **🚀 [Advanced Full-Stack DRF System]** Built a high-performance backend using **Django Rest Framework** but bypassed the standard ORM in favor of **SQLAlchemy** for precise control over **PostgreSQL** transactions. 
-  * *Tech:* Python, DRF, SQLAlchemy, PostgreSQL, React, Tailwind CSS.
-* **🛒 [Pro-Grade E-Commerce Suite]** A complete full-stack solution featuring complex state management, secure payment flows, and optimized API endpoints.
-  * *Tech:* Django, React, Redux, PostgreSQL, JWT Authentication.
-* **🕷️ [Web Scraping & Automation Suite]** Headless browser automation with **proxy rotation** and data pipeline management.
-  * *Tech:* Selenium, Scrapy, BeautifulSoup.
-* **🎮 [Dhumbal Card Game]** Strategic implementation of Nepali card game logic using **C++ and SFML**.
+* **🚀 [Advanced Full-Stack DRF System]** High-performance backend using **Django Rest Framework** bypassing the standard ORM in favor of **SQLAlchemy** for precise **PostgreSQL** control.
+* **🛒 [Pro-Grade E-Commerce Suite]** Full-stack solution featuring complex state management, secure payment flows, and optimized API endpoints.
+* **🕷️ [Web Scraping & Automation Suite]** Headless browser automation with **proxy rotation** and data pipeline management using Selenium/Scrapy.
 
 ---
 
@@ -38,20 +27,14 @@ I am a Computer Engineering student specializing in building scalable backends. 
 
 ---
 
-### 📊 My GitHub Power Stats
-
-![Prashant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prashant7738&theme=tokyonight&area=true)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashant7738&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant7738&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
-</p>
+### 📊 GitHub Activity
+![Prashant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prashant7738&theme=react-dark&area=true)
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=prashant7738&theme=tokyonight" alt="GitHub Streak" width="100%" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=prashant7738&theme=dark" width="100%" alt="GitHub Streak" />
 </p>
+
+---
 
 ---
 
@@ -59,9 +42,4 @@ I am a Computer Engineering student specializing in building scalable backends. 
 <p align="left">
 <a href="https://www.linkedin.com/in/prashantkafle33/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:prashantkafle7738@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-</p>
-
----
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
