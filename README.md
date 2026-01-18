@@ -15,8 +15,8 @@ I am a Computer Engineering student focused on mastering the full-stack ecosyste
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=prashant7738&theme=tokyonight)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prashant7738&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant7738&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
 </p>
 
 ---
