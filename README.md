@@ -11,12 +11,21 @@ I am a Computer Engineering student focused on mastering the full-stack ecosyste
 
 ---
 
-### 🚀 GitHub Activity & Stats
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=prashant7738&theme=tokyonight)
+---
+
+### 🚀 My GitHub Power Stats
+
+![Prashant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prashant7738&theme=tokyonight&area=true)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prashant7738&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant7738&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=prashant7738&theme=tokyonight" alt="GitHub Streak" width="100%" />
+  </a>
 </p>
 
 ---
@@ -43,8 +52,8 @@ I am a Computer Engineering student focused on mastering the full-stack ecosyste
 
 ### 📫 Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/prashantkafle33/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="mailto:prashantkafle7738@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
 ---
